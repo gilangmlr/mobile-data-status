@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile Data Status</string>
+    <string name="data_connection_state">Data connection state</string>
+    <string name="network_type">Network type</string>
+    <string name="unknown">Unknown</string>
+    <string name="carrier_name">Carrier name</string>
+    <string name="data_activity">Data activity</string>
+    <string name="realtime_data">Realtime Data</string>
+</resources>
